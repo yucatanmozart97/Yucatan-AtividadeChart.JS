@@ -1,0 +1,17 @@
+body {
+display: flex;
+}
+
+#myChart {
+    position: relative;
+    width: 40vw;
+    height: 40vh;
+}
+
+#myChart2 {
+    position: relative;
+    width: 40vw;
+    height: 40vh;
+}
+
+
